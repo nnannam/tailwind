@@ -5,7 +5,7 @@ class SpecialHeader extends HTMLElement {
     <nav>
         <div class="max-w-screen-xxl flex flex-wrap items-center justify-between mx-auto p-4">
             <a href="#" class="flex items-center space-x-3 md:w-48">
-                <img src="../img/logo-black.png.svg" class="h-10" alt="Logo" />
+                <img src="img/logo-black.png.svg" class="h-10" alt="Logo" />
             </a>
             <div class="flex md:order-2 space-x-3 md:space-x-5">
                 <div class=" flex-col hidden md:flex">
@@ -67,7 +67,7 @@ class SpecialFooter extends HTMLElement {
         <footer class="bg-gray-100 py-10">
         <div class="max-w-screen-xl flex flex-col sm:flex-row gap-16 items-start justify-between mx-auto sm:p-10 p-12 mt-8 md:mt-0">
             <ul class="flex flex-col gap-3">
-                <li><img src="../img/logo-black.png.svg" alt="logo"></li>
+                <li><img src="img/logo-black.png.svg" alt="logo"></li>
                 <li class="text-gray-400">hello@teespace.io</li>
                 <li><a href="tel:00 1900 8188" class="text-sm font-bold hover:underline">00 1900 8188</a></li>
                 <li class="text-gray-400">3665 Paseo Place, Suite 0960San Diego</li>

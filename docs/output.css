@@ -1806,6 +1806,18 @@ input:checked + .toggle-bg {
   background-image: url('../img/services_bg.svg');
 }
 
+.bg-\[url\(\'img\/bg2\.svg\'\)\] {
+  background-image: url('img/bg2.svg');
+}
+
+.bg-\[url\(\'img\/services_bg\.svg\'\)\] {
+  background-image: url('img/services_bg.svg');
+}
+
+.bg-\[url\(\'img\/pricing_bg\.svg\'\)\] {
+  background-image: url('img/pricing_bg.svg');
+}
+
 .bg-cover {
   background-size: cover;
 }
@@ -2580,6 +2592,10 @@ input:checked + .toggle-bg {
 
   .md\:bg-\[url\(\'\.\.\/img\/bg\.svg\'\)\] {
     background-image: url('../img/bg.svg');
+  }
+
+  .md\:bg-\[url\(\'img\/bg\.svg\'\)\] {
+    background-image: url('img/bg.svg');
   }
 
   .md\:p-0 {
